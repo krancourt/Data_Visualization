@@ -19,6 +19,6 @@ mapUSlaws <- miniusa(USlaws_joined$Abbreviation, state_colors = USlaws_joined$co
                      state_name_colors = rep("white", 51))
 
 
-title(main == "Legal Status of Same Sex Marriage in 2008", line == -1)
+title(main == "Paid Family Leave Policies by U.S. State", line == -1)
 
 #Note - final design was finished using Adobe Illustrator
